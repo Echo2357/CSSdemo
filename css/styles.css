@@ -70,6 +70,14 @@ right:500px;}
   text-align: left;
   line-height: 2;
 }
+.profile{
+  width: 50%;
+  margin: auto;
+}
+.contact-me {
+  width: 50%;
+  margin: auto;
+}
 .code-img{
   width: 25%;
   float:left;
